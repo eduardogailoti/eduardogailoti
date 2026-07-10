@@ -2,12 +2,12 @@
 
 ###
 
-<p align="left">• Estudante de Análise e Desenvolvimento de Sistemas na Wyden.<br><br>•  Atualmente estudando Java e C#.</p>
+<p align="left">• Estudante de Análise e Desenvolvimento de Sistemas na Wyden.<br><br>•  Atualmente estudando Kotlin.</p>
 
 ###
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=eduardogailoti&rank_icon=github&hide_title=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=eduardogailoti&rank_icon=github&hide_title=true&include_all_commits=true&theme=midnight-purple)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=eduardogailoti&layout=compact&hide_title=true&langs_count=6&hide_values=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=eduardogailoti&layout=compact&hide_title=true&langs_count=6&hide_values=true&theme=midnight-purple)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=eduardogailoti&layout=compact&langs_count=6&hide_values=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=eduardogailoti&layout=compact&langs_count=6&hide_values=true&theme=midnight-purple)
 
 ###
 
@@ -15,6 +15,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height = "30" alt="kotlin logo" />          
 </div>
 
 ###
