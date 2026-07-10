@@ -6,7 +6,7 @@
 
 ###
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=eduardogailoti)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=eduardogailoti&rank_icon=github&hide_title=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=eduardogailoti&rank_icon=github&hide_title=true&include_all_commits=true&theme=midnight-purple)
 
 ###
 
