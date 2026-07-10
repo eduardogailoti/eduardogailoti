@@ -7,6 +7,7 @@
 ###
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=eduardogailoti&rank_icon=github&hide_title=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=eduardogailoti&rank_icon=github&hide_title=true&include_all_commits=true&theme=midnight-purple)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=eduardogailoti&layout=compact&hide_title=true&langs_count=6&hide_values=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=eduardogailoti&layout=compact&hide_title=true&langs_count=6&hide_values=true&theme=midnight-purple)
 
 ###
 
